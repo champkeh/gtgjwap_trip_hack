@@ -1,0 +1,25 @@
+{
+  "name": "gtgjwap_trip_hack",
+  "version": "1.0.0",
+  "description": "## 网站地址 https://h5.133.cn",
+  "main": "ajcs.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/champkeh/gtgjwap_trip_hack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/champkeh/gtgjwap_trip_hack/issues"
+  },
+  "homepage": "https://github.com/champkeh/gtgjwap_trip_hack#readme",
+  "dependencies": {
+    "redis": "^2.8.0",
+    "sn-js-utils": "^0.1.5-rc.10"
+  }
+}
