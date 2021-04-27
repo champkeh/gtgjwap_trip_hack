@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/champkeh/gtgjwap_trip_hack#readme",
   "dependencies": {
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "sn-js-utils": "^0.1.5-rc.10"
   }
 }
